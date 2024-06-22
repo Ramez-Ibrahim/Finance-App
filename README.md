@@ -83,4 +83,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 - [Flask](https://flask.palletsprojects.com/)
 - [yfinance](https://github.com/ranaroussi/yfinance)
 - [jQuery](https://jquery.com/)
-- This project was based on a tutorial from [YouTube](https://www.youtube.com/).
+- This project was based on a tutorial from [YouTube](https://youtu.be/GSHFzqqPq5U?si=MpgIx21QN2h9j8nF).
